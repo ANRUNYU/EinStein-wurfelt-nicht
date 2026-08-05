@@ -1,0 +1,3 @@
+# Optional dependencies for enhanced AI training
+numpy
+torch>=2.0.0
