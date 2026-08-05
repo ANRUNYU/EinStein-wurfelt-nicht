@@ -381,7 +381,7 @@ python -m py_compile einstein.py einstein_ai.py train_selfplay.py train_value_mo
 
 如需反馈问题或参与改进，可通过仓库的 Issues 页面联系项目维护者。
 
-> 请在正式发布前补充仓库地址、维护者信息和联系邮箱。
+> 联系邮箱：sirius_1939@163.com
 
 ---
 
